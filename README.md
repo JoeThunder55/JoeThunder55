@@ -1,8 +1,5 @@
 Hi there 👋
 
-<!--
-**JoeThunder55/JoeThunder55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Creating new apps for the Swift Platform
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Website](https://aaronjhaughton.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I won 1st place in my first grade science fair.
--->
+
