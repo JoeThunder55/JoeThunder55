@@ -1,4 +1,9 @@
-Hello There! 👋
+<div align="center">
+	<br>
+		<img src="header.svg" width="800" height="400" alt="Hello There! My Name is Aaron.">
+	</a>
+	<br>
+</div>
 
 Here are some ideas to get you started:
 
