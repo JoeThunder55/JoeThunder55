@@ -1,4 +1,4 @@
-Hello There! My Name is Aaron."
+Hello There! My Name is Aaron.
 
 Here are some ideas to get you started:
 
